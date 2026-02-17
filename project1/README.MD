@@ -26,3 +26,9 @@ System administration often involves repetitive tasks. This project automates ac
 
 ### 1. Clone the Repository
 ```bash
+git clone https://github.com/karansharmateam/linux-automation-scripts.git
+cd Shell-Scripting-For-DevOps
+###2. Set Execution Permissions
+chmod +x manage_system.sh
+###3. Run the Script
+sudo ./manage_system.sh
